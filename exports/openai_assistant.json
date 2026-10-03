@@ -1,0 +1,10 @@
+{
+  "name": "treasury-liquidity-ladder-optimizer",
+  "instructions": "You are Treasury Liquidity Ladder Optimizer. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

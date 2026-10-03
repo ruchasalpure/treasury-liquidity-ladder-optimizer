@@ -1,0 +1,5 @@
+{
+  "name": "treasury-liquidity-ladder-optimizer",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}
