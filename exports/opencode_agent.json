@@ -1,8 +1,0 @@
-{
-  "agent_id": "treasury-liquidity-ladder-optimizer",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}
